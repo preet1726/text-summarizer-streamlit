@@ -1,14 +1,14 @@
-# AI Text Summarizer
+# Text Summarizer Streamlit
 
-A web-based AI Text Summarizer built using Python, Streamlit, and Hugging Face Transformers. The application leverages Natural Language Processing (NLP) techniques to generate concise and meaningful summaries from lengthy text inputs.
+A web-based text summarization application built with Python, Streamlit, and Hugging Face Transformers. The application uses Natural Language Processing (NLP) techniques to generate concise summaries from lengthy text inputs.
 
 ## Features
-- Automatic text summarization
-- User-friendly Streamlit interface
-- Fast and efficient processing
-- Powered by Transformer-based NLP models
+- AI-powered text summarization
+- Simple and interactive user interface
+- Fast summary generation
+- Transformer-based NLP model
 
-## Technologies Used
+## Tech Stack
 - Python
 - Streamlit
 - Hugging Face Transformers
@@ -17,7 +17,7 @@ A web-based AI Text Summarizer built using Python, Streamlit, and Hugging Face T
 ## Installation
 
 ```bash
-git clone https://github.com/your-username/ai-text-summarizer.git
-cd ai-text-summarizer
+git clone https://github.com/your-username/text-summarizer-streamlit.git
+cd text-summarizer-streamlit
 pip install -r requirements.txt
 streamlit run app.py
